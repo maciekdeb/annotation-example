@@ -1,13 +1,3 @@
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
-
 # Created by https://www.gitignore.io/api/intellij,java,intellij+iml
 
 ### Intellij ###
@@ -17,6 +7,7 @@ buildNumber.properties
 # User-specific stuff:
 .idea/workspace.xml
 .idea/tasks.xml
+/.idea/
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
